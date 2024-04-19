@@ -1,2 +1,14 @@
-Me quiero cambiar de carrera, banda :(
-Gaaaaaaaaaa
+¡Descubre el mundo de Python!
+
+Python es como una caja de herramientas mágica que los programadores usan para hacer que las computadoras hagan cosas increíbles. Imagina que eres un mago y Python es tu varita mágica. Con Python, puedes enseñarle a la computadora a hacer todo tipo de trucos geniales.
+
+¿Sabías que con Python puedes decirle a la computadora que te diga "Hola mundo!"? ¡Es tan fácil como contar hasta tres! Mira:
+
+print("Hola mundo!")
+
+¡Y listo! La computadora te saludará como un amigo. Pero Python no solo puede saludar, ¡también puede hacer matemáticas! Por ejemplo, si le dices "Python, ¿cuánto es 2 más 2?", ¡te dirá que es 4! Mira:
+
+resultado = 2 + 2
+print("El resultado es:", resultado)
+
+¡Increíble, ¿verdad?! Así de poderoso es Python. Es como tener un amigo súper inteligente que siempre está listo para ayudarte a resolver problemas.
