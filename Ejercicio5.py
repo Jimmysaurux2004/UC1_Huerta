@@ -1,1 +1,3 @@
-#EJERCICIO5
+'''
+El ejercicio 5 ha sido eliminado
+'''
