@@ -1,3 +1,8 @@
+/*
+Pregunta 02
+*/
+
+
 package com.mycompany.preg01.java;
 
 import java.util.Scanner;
