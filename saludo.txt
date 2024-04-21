@@ -1,0 +1,17 @@
+AQUÍ VA UN SALUDO MUY EDUCADO
+
+**Explora la Ciencia con Python: 5 Ejercicios Interesantes**
+
+¡Bienvenido a nuestro conjunto de ejercicios diseñado para estudiantes de secundaria que desean fortalecer sus habilidades en Python mientras exploran conceptos científicos emocionantes!
+
+1. **Promedio Ponderado**: ¿Quieres calcular tu promedio de notas considerando diferentes pesos para cada elemento evaluado? Con nuestro primer ejercicio, podrás hacer precisamente eso. Ingresa tus notas y sus respectivos pesos, y descubre tu promedio ponderado.
+
+2. **Simulación de Lanzamiento de Dados**: ¿Te has preguntado cuál es la probabilidad de obtener ciertas combinaciones de números al lanzar dos dados? Con nuestra simulación de lanzamiento de dados, podrás experimentar virtualmente y calcular la suma de los valores obtenidos.
+
+3. **Velocidad Media**: ¿Quieres saber a qué velocidad te estás moviendo? Ingresa la distancia que has recorrido y el tiempo transcurrido, y nuestro ejercicio calculará tu velocidad media en metros por segundo.
+
+4. **Área de un Círculo**: ¿Estás listo para calcular áreas? Ingresa el radio de un círculo y descubre cuál es su área. Este ejercicio te ayudará a comprender cómo se calculan áreas simples usando fórmulas matemáticas básicas.
+
+5. **Conversión de Temperatura**: ¿Te gustaría convertir temperaturas de grados Celsius a Fahrenheit? Ingresa la temperatura en grados Celsius y observa cómo nuestro ejercicio realiza la conversión por ti.
+
+¡Estos ejercicios son perfectos para aprender Python mientras te sumerges en el fascinante mundo de la ciencia! ¡Diviértete resolviendo problemas y expandiendo tus habilidades de programación!
